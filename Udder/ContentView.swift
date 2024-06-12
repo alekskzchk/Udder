@@ -17,6 +17,7 @@ struct ContentView: View {
                 Text("Fresh milk on demand")
             }
             Text("Hello, world!")
+            Image("Besher Al Maleh webp.webp")
         }
         .padding()
     }
